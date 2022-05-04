@@ -1,0 +1,12 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 2rem;
+}
+
+
+/* .container {
+    border: 2px solid red;
+    border-radius: 20px;
+} */
